@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/corax/Projects/WorkoutCalendar/build/Desktop_Static-Debug/WorkoutCalendar_autogen",
+	"CMAKE_BINARY_DIR" : "/home/corax/Projects/WorkoutCalendar/build/Desktop_Static-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/corax/Projects/WorkoutCalendar/build/Desktop_Static-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/corax/Projects/WorkoutCalendar",
+	"CMAKE_SOURCE_DIR" : "/home/corax/Projects/WorkoutCalendar",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/corax/Projects/WorkoutCalendar/build/Desktop_Static-Debug/WorkoutCalendar_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/corax/Projects/WorkoutCalendar/qss/style.qss",
+		"/home/corax/Projects/WorkoutCalendar/icons/calendar.png"
+	],
+	"LOCK_FILE" : "/home/corax/Projects/WorkoutCalendar/build/Desktop_Static-Debug/CMakeFiles/WorkoutCalendar_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/local/Qt-6.9.0/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/corax/Projects/WorkoutCalendar/build/Desktop_Static-Debug/CMakeFiles/WorkoutCalendar_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/corax/Projects/WorkoutCalendar/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

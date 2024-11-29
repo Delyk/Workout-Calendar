@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_WorkoutCalendar_FILE /home/corax/Projects/WorkoutCalendar/build/Desktop_Static-Debug/WorkoutCalendar)
+set(__QT_DEPLOY_TARGET_WorkoutCalendar_TYPE EXECUTABLE)

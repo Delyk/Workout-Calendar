@@ -1,0 +1,20 @@
+QLabel#text {
+        border: 2px solid black;
+}
+
+QPushButton {
+        border: 1px solid gray;
+        margin: 0px;
+}
+QPushButton:hover {
+        background-color: blue;
+}
+QPushButton:pressed {
+        background-color: red;
+}
+
+QMainWindow::separator {
+        background-color: gray;
+        width: 1px;
+        border: none;
+}

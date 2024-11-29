@@ -1,0 +1,9 @@
+/home/corax/Projects/WorkoutCalendar/CMakeFiles/WorkoutCalendar.dir
+/home/corax/Projects/WorkoutCalendar/CMakeFiles/edit_cache.dir
+/home/corax/Projects/WorkoutCalendar/CMakeFiles/rebuild_cache.dir
+/home/corax/Projects/WorkoutCalendar/CMakeFiles/list_install_components.dir
+/home/corax/Projects/WorkoutCalendar/CMakeFiles/install.dir
+/home/corax/Projects/WorkoutCalendar/CMakeFiles/install/local.dir
+/home/corax/Projects/WorkoutCalendar/CMakeFiles/install/strip.dir
+/home/corax/Projects/WorkoutCalendar/CMakeFiles/WorkoutCalendar_autogen_timestamp_deps.dir
+/home/corax/Projects/WorkoutCalendar/CMakeFiles/WorkoutCalendar_autogen.dir
